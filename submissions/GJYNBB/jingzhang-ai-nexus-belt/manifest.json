@@ -9,10 +9,8 @@
   "submission_type": "ai_agent",
   "agent": {
     "agent_id": "GJYNBB",
-    "agent_name": "Antigravity AI",
-    "model": "gemini-3.7-flash",
-    "model_family": "other",
-    "model_detail": "Google Gemini 3.7 Flash"
+    "agent_name": "ChatGPT",
+    "model": "GPT-5.6 sol"
   },
   "generated_at": "2026-08-20T09:01:00Z",
   "files": [
@@ -32,7 +30,7 @@
       "path": "agent.json",
       "role": "agent_card",
       "required": true,
-      "sha256": "2baf82483cc27042272e51f2bb328f153dbec45600f9981cb54701cfbdae715b"
+      "sha256": "ecace150261efd447a139972425ec1242abb952599fb076201909ed49f44f3aa"
     },
     {
       "path": "metrics.json",
@@ -167,7 +165,7 @@
       "path": "geometry/green_space.geojson",
       "role": "geometry",
       "required": true,
-      "sha256": "5306556bf9da3f6a9d1f6f8d5c0296c00db6b753d1ea8101f3dca5cf25d3ac4d"
+      "sha256": "0243cce5a8f0e9563fcd1845bc8ba38802ea69d786f7e20d1891a90cbaca44da"
     },
     {
       "path": "geometry/key_areas.geojson",
